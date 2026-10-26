@@ -1,0 +1,6 @@
+{
+  "name": "VoltDash - Real-Time Food Delivery & Logistics",
+  "description": "High-performance food delivery platform with real-time GPS tracking, multi-market tax compliance for Germany & France, driver ratings, push notifications, and admin dashboards.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
